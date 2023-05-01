@@ -8,7 +8,7 @@ Here's a little bit about me:
 
 * I am a fallible human being. We all are. But, I like to remind myself.
 
-* I am an environmentalist, a feminist, and an ally because I have children and I want their world to be healthy, more fair, and more just than mine.
+* I am an environmentalist, a feminist, and an ally because I have children and I want their world to be healthier, fairer, and juster than mine.
 
 * I am an artist, a musician, and a goofball because that's how I express myself.
 
