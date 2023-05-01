@@ -22,4 +22,4 @@ My favorite repos are pinned below. Here's why they are my favorites:
 
 * **manager-README**: A place where candidates and new hires can get to know me.
 
-My personal account is actually not that interesting. If you want to see my best publicly available work, check out [@first-try-software](https://github.com/first-try-software). That's where @Fito and I hang out together and dream of better ways to write software on the first try.
+My personal account is actually not that interesting. If you want to see my best publicly available work, check out [@first-try-software](https://github.com/first-try-software). That's where [@Fito](https://github.com/Fito) and I hang out together and dream of better ways to write software on the first try.
